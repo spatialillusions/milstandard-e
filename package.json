@@ -1,0 +1,25 @@
+{
+  "name": "milstandard-e",
+  "version": "1.0.0",
+  "description": "Military symbol standards in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spatialillusions/milstandard-e.git"
+  },
+  "author": "Måns Beckman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spatialillusions/milstandard-e/issues"
+  },
+  "homepage": "https://github.com/spatialillusions/milstandard-e#readme",
+  "devDependencies": {
+    "rollup": "^4.21.0",
+    "rollup-plugin-string": "^3.0.0"
+  }
+}
