@@ -39,6 +39,10 @@ import mil_std_control_measure_mainIcon from "./../tsv-tables/Control Measures.t
 import mil_std_control_measure_m1 from "./../tsv-tables/Control Measures sector 1.tsv";
 import mil_std_control_measure_m2 from "./../tsv-tables/Control Measures sector 2.tsv";
 
+import mil_std_dismounted_mainIcon from "./../tsv-tables/Dismounted individual.tsv";
+import mil_std_dismounted_m1 from "./../tsv-tables/Dismounted individual sector 1.tsv";
+import mil_std_dismounted_m2 from "./../tsv-tables/Dismounted individual sector 2.tsv";
+
 import mil_std_sea_surface_mainIcon from "./../tsv-tables/Sea surface.tsv";
 import mil_std_sea_surface_m1 from "./../tsv-tables/Sea surface sector 1.tsv";
 import mil_std_sea_surface_m2 from "./../tsv-tables/Sea surface sector 2.tsv";
@@ -133,6 +137,13 @@ export default {
     mainIcon: tsv2json(mil_std_control_measure_mainIcon),
     modifier1: tsv2json(mil_std_control_measure_m1),
     modifier2: tsv2json(mil_std_control_measure_m2),
+  },
+  27: {
+    symbolset: "27",
+    name: "Dismounted individuals",
+    mainIcon: tsv2json(mil_std_dismounted_mainIcon),
+    modifier1: tsv2json(mil_std_dismounted_m1),
+    modifier2: tsv2json(mil_std_dismounted_m2),
   },
   30: {
     symbolset: "30",
