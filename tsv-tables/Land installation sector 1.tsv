@@ -1,1 +1,17 @@
 First Modifier	Category	Code	Remarks
+Biological	CBRN Type	01
+{Disused}		02
+{Disused}		03
+{Disused}		04
+{Disused}		05
+Coal	Electric Power Type	06
+Geothermal	Electric Power Type	07
+Hydroelectric	 Electric Power Type	08
+Natural Gas	Electric Power Type	09
+{Disused}		10
+{Disused}		11
+Civilian Telephone	Telecommunication Type	12
+Civilian Television	Telecommunication Type	13
+{Disused}		14
+Displaced Persons, Refugees or Evacuees		15
+Training		16

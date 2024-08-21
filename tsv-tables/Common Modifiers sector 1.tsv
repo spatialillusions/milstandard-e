@@ -1,0 +1,78 @@
+First Modifier	Category	Code	Remarks
+Unmanned Aircraft (UA)/ Unmanned Aerial Vehicle (UAV)/ Unmanned Aircraft System (UAS)/ Remote Piloted Vehicle (RPV)	Mobility	100
+Robotic	Mobility	101
+Fixed Wing	Mobility	102
+Rotary Wing	Mobility	103
+Tilt-Rotor	Mobility	104
+VSTOL/VTOL or Helicopter Equipped	Mobility	105
+Attack or Attack/Strike	Capability	106
+Armored	Capability	107
+Ballistic Missile/Ballistic Missile Defense Shooter	Capability	108
+Bridge/Bridging	Capability	109
+Cargo	Capability	110
+Utility	Capability	111
+Light	Capability	112
+Medium	Capability	113
+Heavy	Capability	114
+Cyberspace	Capability	115
+Command Post Node	Capability	116
+Joint Network Node	Capability	117
+Retransmission Site	Capability	118
+Brigade	Support Level	119
+Close Protection	Capability	120
+Combat	Capability	121
+Command and Control	Capability	122
+Crowd and Riot Control	Capability	123
+Explosive Ordnance Disposal	Capability	124
+Intelligence Surveillance Reconnaissance	Capability	125
+Maintenance	Capability	126
+Medevac/Medic/Medical	Capability	127
+Search and Rescue	Capability	128
+Security	Capability	129
+Sniper	Capability	130
+Special Operations Forces	Capability	131
+Special Weapons and Tactics (SWAT)	Capability	132
+Guided Missile	Capability	133
+Other Guided Missile	Capability	134
+Petroleum/Petroleum Oil and Lubricants	Capability	135
+Water	Capability	136
+Weapon or Weapons	Capability	137
+Chemical	CBRN	138
+Biological	CBRN	139
+Radiological	CBRN	140
+Nuclear	CBRN	141
+Decontamination	CBRN	142
+Civilian	Organization	143
+"Government Organization/
+Government Organization Member"	Organization	144
+Accident	Composite Loss or Incident Qualifier	145
+Assassination	Crime	146
+Execution	Crime	147
+Kidnapping	Crime	148
+Piracy	Crime	149
+Rape 	Crime	150
+Antisubmarine Warfare	Mission Area	151
+Escort	Mission Area	152
+Mine Countermeasures	Mission Area	153
+Mine Warfare	Mission Area	154
+Surface Warfare	Mission area	155
+Command	Support Level	156
+Company	Support Level	157
+Platoon/Detachment	Support Level	158
+Regiment Group	Support Level	159
+Section	Support Level	160
+Squad	Support Level	161
+Team/Crew	Support Level	162
+Battalion	Support Level	163
+Directed Energy	Capability	164
+Hijacker	Crime	165
+Electromagnetic	Capability	166
+Foreign Fighters	Organization	167
+Laboratory		168
+Leader	Organization	169
+Non-Government Organization	Organization	170
+Railway	Capability	171
+Religious	Organization	172
+Terrorist	Crime	173
+Clear		174
+Jamming 		175

@@ -1,1 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
+Signal Intercept	Signal Intercept		110000
+	Communications		110100
+	Jammer		110200
+	Radar		110300

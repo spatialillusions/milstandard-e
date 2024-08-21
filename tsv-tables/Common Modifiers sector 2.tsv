@@ -1,0 +1,36 @@
+Second Modifier	Category	Code	Remarks
+Airborne	Mobility	100
+Bicycle Equipped	Mobility	101
+Railroad/Railway	Capability	102
+Ski	Mobility	103
+Tracked	Mobility	104
+Wheeled (Limited Cross Country)	Mobility	105
+Wheeled X (Cross Country)	Mobility	106
+Fixed Wing	Mobility	107
+Rotary Wing	Mobility	108
+Robotic	Mobility	109
+Autonomous Control	Capability	110
+Remotely Piloted	Capability	111
+Expendable	Capability	112
+Mountain	Capability	113
+Long Range	Capability	114
+Medium Range	Capability	115
+Short Range	Capability	116
+Close Range	Capability	117
+Heavy	Capability	118
+Medium	Capability	119
+Light and Medium	Capability	120
+Light	Capability	121
+Cyberspace	Capability	122
+Security Force Assistance	Capability	123
+Medical Bed	Capability	124
+Multifunctional	Capability	125
+Foreign Fighters	Organization	126
+Laboratory		127
+Leader	Organization	128
+Over Snow -Prime Mover	Capability	129
+Religious	Organization	130
+Supply		131
+Terrorist	Crime	132
+Electromagnetic Warfare		133
+Jamming		134

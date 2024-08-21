@@ -1,1 +1,95 @@
 Second Modifier	Category	Code	Remarks
+{Disused}		01
+Arctic	Mobility	02
+Battle Damage Repair	Capability	03
+{Disused}		04
+Casualty Staging	Capability	05
+Clearing	Capability	06
+{Disused}		07
+Control	Capability	08
+Decontamination	Capability	09
+Demolition	Capability	10
+Dental	Capability	11
+Digital	Capability	12
+Enhanced Position Location Reporting System (EPLRS)	Capability	13
+Equipment	Capability	14
+{Disused}		15
+High Altitude	Capability	16
+Intermodal	Capability	17
+Intensive Care	Capability	18
+{Disused}		19
+Laboratory	Capability	20
+Launcher	Capability	21
+{Disused}		22
+Low Altitude	Capability	23
+{Disused}		24
+Medium Altitude	Capability	25
+{Disused}		26
+{Disused}		27
+High to Medium Altitude	Capability	28
+Multi–Channel	Capability	29
+Optical (Flash)	Capability	30
+Pack Animal	Capability	31
+Patient Evacuation Coordination	Capability	32
+Preventive Maintenance	Capability	33
+Psychological	Capability	34
+Radio Relay Line of Sight	Capability	35
+{Disused}		36
+Recovery (Unmanned Systems)	Capability	37
+Recovery (Maintenance)	Capability	38
+Rescue Coordination Center	Capability	39
+Riverine	Mobility	40
+Single Channel	Capability	41
+{Disused}		42
+{Disused}		43
+Strategic	Capability	44
+Support	Capability	45
+Tactical	Capability	46
+Towed	Mobility	47
+Troop	Capability	48
+Vertical or Short Take–Off and Landing (VTOL/VSTOL)	Mobility	49
+Veterinary	Capability	50
+{Disused}		51
+High to Low Altitude	Capability	52
+Medium to Low Altitude	Capability	53
+Attack	Capability	54
+Refuel	Capability	55
+Utility	Capability	56
+Combat Search and Rescue	Capability	57
+Guerilla	Capability	58
+Air Assault	Mobility	59
+Amphibious	Mobility	60
+Very Heavy	Capability	61
+Supply	Capability	62
+{Disused}		63
+Navy Barge, Self-Propelled	Mobility	64
+Navy Barge, Not Self-Propelled	Mobility	65
+Launch	Mobility	66
+Landing Craft	Mobility	67
+Landing Ship	Mobility	68
+Service Craft/Yard	Mobility	69
+Tug Harbor	Mobility	70
+Ocean Going Tug Boat	Mobility	71
+Surface Deployment and Distribution Command	Capability	72
+Noncombatant Generic Vessel	Mobility	73
+Composite	Capability	74
+Shelter	Capability	75
+{Disused}		76
+{Disused}		77
+{Disused}		78
+{Disused}		79
+{Disused}		80
+Surgical	Capability	81
+Blood	Capability	82
+Combat and Operational Stress Control	Capability	83
+Jamming	Capability	84
+{Disused}		85
+Optometry	Capability	86
+Preventive Medicine	Capability	87
+{Disused}		88
+Air Defense	Capability	89
+Direction Finding	Capability	90
+Interception	Capability	91
+Mobility Advisor and Support	Capability	92
+Search	Capability	93
+Fire Direction Center		94

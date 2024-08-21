@@ -1,1 +1,8 @@
 First Modifier	Category	Code	Remarks
+Low Earth Orbit (LEO)	Orbit	01
+Medium Earth Orbit  (MEO)	Orbit	02
+High Earth Orbit  (HEO)	Orbit	03
+Geosynchronous Orbit (GSO)	Orbit	04
+Geostationary Orbit (GO)	Orbit	05
+Molniya Orbit (MO)	Orbit	06
+{Disused}		07

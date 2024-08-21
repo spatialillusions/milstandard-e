@@ -1,1 +1,42 @@
 First Modifier	Category	Code	Remarks
+{Disused}		01
+Bomber	Military Aircraft Type	02
+{Disused}		03
+Fighter	Military Aircraft Type	04
+Interceptor	Military Aircraft Type	05
+Tanker	Aircraft Type	06
+{Disused}		07
+{Disused}		08
+Passenger	Aircraft Type	09
+Ultra Light	Aircraft Type	10
+Airborne Command Post (ACP)	Military Aircraft Type	11
+Airborne Early Warning (AEW)	Military Aircraft Type	12
+Government	Aircraft Type	13
+{Disused}		14
+{Disused}		15
+Electronic Combat (EC)/Jammer	Military Mission Area	16
+Patrol	Mission Area	17
+Reconnaissance	Mission Area	18
+Trainer	Mission Area	19
+Photographic (Reconnaissance)	Mission Area	20
+Personnel Recovery	Mission Area	21
+{Disused}		22
+Communications	Mission Area	23
+Electronic Support (ES)	Military Mission Area	24
+{Disused}		25
+{Disused}		26
+{Disused}		27
+{Disused}		28
+Very Important Person (VIP) Transport	Mission Area	29
+Combat Search and Rescue (CSAR)	Military Mission Area	30
+Suppression of Enemy Air Defenses	Military Mission Area	31
+Antisurface Warfare	Military Mission Area	32
+Fighter/Bomber	Military Aircraft Type	33
+Intensive Care	Mission Area	34
+Electronic Attack (EA)	Military Mission Area	35
+Multi-Mission	Mission Area	36
+{Disused}	Crime	37
+ASW Helo- LAMPS	Mission Area	38
+ASW Helo- SH-60R	Mission Area	39
+{Disused}		40
+{Disused}		41

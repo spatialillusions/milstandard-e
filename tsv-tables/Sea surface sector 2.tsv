@@ -1,1 +1,17 @@
 Second Modifier	Category	Code	Remarks
+Nuclear Powered	Ship Propulsion	01
+{Disused}		02
+{Disused}		03
+{Disused}		04
+Dock	Cargo Capacity	05
+Logistics	Cargo Capacity	06
+Tank	Cargo Capacity	07
+Vehicle	Cargo Capacity	08
+Fast	Ship Mobility	09
+Air–Cushioned (US)	Ship Mobility	10
+Air–Cushioned (NATO)	Ship Mobility	11
+Hydrofoil	Ship Mobility	12
+{Disused}		13
+{Disused}		14
+{Disused}		15
+{Disused}		16

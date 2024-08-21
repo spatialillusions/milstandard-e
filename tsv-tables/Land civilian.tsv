@@ -1,1 +1,12 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
+Civilian			110000
+	Environmental Protection		110100
+	Government Organization		110200
+	Individual		110300
+	Organization or Group		110400
+	Killing Victim		110500
+	Killing Victims		110600
+	Victim of an Attempted Crime		110700
+	Spy		110800
+	Composite Loss		110900
+	Emergency Medical Operation		111000

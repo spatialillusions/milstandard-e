@@ -1,1 +1,16 @@
 Second Modifier	Category	Code	Remarks
+Short Range	Missile Range	01
+Medium Range	Missile Range	02
+Intermediate Range	Missile Range	03
+Long Range	Missile Range	04
+Intercontinental 	Missile Range	05
+Arrow	Missile Type-BMD	06
+Ground-Based Interceptor (GBI)	Missile Type-BMD	07
+Patriot	Missile Type-BMD	08
+Standard Missile Terminal Phase (SM-T)	Missile Type-BMD	09
+Standard Missile – 3 (SM-3)	Missile Type-BMD	10
+Terminal High Altitude Area Defense (THAAD)	Missile Type-BMD	11
+Space	Launch Origin	12
+Close Range (CRBM)	Missile Range	13
+Debris	Missile Type-BMD	14
+Unknown	Missile Type-BMD	15

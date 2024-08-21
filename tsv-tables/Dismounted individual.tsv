@@ -1,0 +1,51 @@
+Entity	Entity Type	Entity Subtype	Code	Remarks
+Military			110000
+	{Disused}		110100
+	Activity/Task		110200
+		Explosive Ordnance Disposal	110201
+		Field Artillery Observer	110202
+		Joint Fire Support	110203
+		Liaison	110204
+		Messenger	110205
+		Military Police	110206
+		Observer	110207
+		Security	110208
+		Sniper	110209
+		Special Operation Forces	110210
+		Designated Marksman 	110211
+		Medic 	110212
+		Signaler	110213
+		Reconnaissance 	110214
+		Infantry 	110215
+		Close Protection 	110216
+		Crowd and Riot Control 	110217
+		SWAT 	110218
+		Demolition 	110219
+		Commander  (CDR)	110220
+		Second In Command  (SIC)	110221
+	Lethal Weapons		110300
+		Rifle 	110301
+		Single Shot Rifle	110302
+		Semiautomatic Rifle	110303
+		Automatic Rifle	110304
+		Machine Gun	110305
+		Machine Gun - Light	110306
+		Machine Gun - Medium	110307
+		Machine Gun - Heavy	110308
+		Grenade Launcher	110309
+		Grenade Launcher - Light	110310
+		Grenade Launcher - Medium	110311
+		Grenade Launcher - Heavy	110312
+		Flame Thrower	110313
+		Mortar	110314
+		Single Rocket Launcher	110315
+		Antitank Rocket Launcher	110316
+	Non-Lethal Weapons		110400
+		Non-Lethal Weapon	110401
+		Non-Lethal Grenade Launcher	110402
+		Taser	110403
+Civilian			120000
+	Activity/Task		120100
+		Police	120101
+		Non-Governmental Organization Member Or Non-Governmental Organization (NGO) 	120102
+		Government Organization (GO) 	120103

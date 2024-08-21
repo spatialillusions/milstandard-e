@@ -1,1 +1,23 @@
 First Modifier	Category	Code	Remarks
+{Disused}		01
+Auxiliary	Mission Area	02
+{Disused}		03
+{Disused}		04
+{Disused}		05
+{Disused}		06
+{Disused}		07
+{Disused}		08
+{Disused}		09
+{Disused}		10
+{Disused}		11
+{Disused}		12
+Possible Submarine Low 1	Submarine Confidence	13
+Possible Submarine Low 2	Submarine Confidence	14
+Possible Submarine High 3	Submarine Confidence	15
+Possible Submarine High 4	Submarine Confidence	16
+Probable Submarine	Submarine Confidence	17
+Certain Submarine	Submarine Confidence	18
+Anti-torpedo Torpedo	Weapons Capability	19
+{Disused}	Crime	20
+{Disused}	Crime	21
+{Disused}		22

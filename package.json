@@ -2,7 +2,8 @@
   "name": "milstandard-e",
   "version": "1.0.0",
   "description": "Military symbol standards in JSON format",
-  "main": "index.js",
+  "main": "milstandard.js",
+  "module": "milstandard.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "npm run build",

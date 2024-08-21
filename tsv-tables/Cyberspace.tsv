@@ -1,1 +1,52 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
+Cyberspace Unit/Cyberspace Unit (non specified)			110000
+	Combat Mission Team		110100
+	National Mission Team		110200
+	Cyber Protection Team		110300
+	Nation State		110400
+	Nation State Sponsored		110500
+	Defensive Cyberspace 		110600
+	Offensive Cyberspace 		110700
+	Internet Service Provider		110800
+	Security/Security Operations		110900
+	Operations/Active Cyber Operations		111000
+Threat Actors			120000
+	Criminal		130100
+	Insider		120200
+Agent			130000
+	Firewall		130100
+	Firmware		130200
+Application			140000
+	Banking		150100
+	Cloud		150200
+	Fileserver		140200
+	Search Engine		140300
+	Social Media		140400
+Threat			150000
+	Malware		150100
+	Phishing		150200
+	Spear Phishing		150300
+	Whale Phishing		150400
+Data			160000
+	Digital Currency		160100
+	Persona		160200
+Endpoint			170000
+	Server		170100
+	Workstation		170200
+	Portable Electronic Device (PED)		170300
+		Smartphone/Mobile	170301
+		Tablet/Mobile Personal Device	170302
+		Laptop	170303
+		Health Monitor	170304
+		Smartvest	170305
+		Smartwatch	170306
+		Wearable	170307
+	Internet of Things Device		170400
+	Printer		170500
+	Router		170600
+	Switch		170700
+Network			180000
+Paths			200000
+	Data Path Segment		200100
+	Data Tunnel		200200
+Terrain			210000

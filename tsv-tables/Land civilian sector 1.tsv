@@ -1,1 +1,27 @@
 First Modifier	Capability	Code	Remarks
+{Disused}		01
+{Disused}		02
+Murder Victims	Crime	03
+{Disused}		04
+{Disused}		05
+{Disused}		06
+{Disused}		07
+{Disused}		08
+Displaced Person(s), Refugee(s) and Evacuee(s)	Organization	09
+Foreign Fighter(s)	Organization	10
+Gang Member or Gang	Organization	11
+{Disused}		12
+Leader or Leadership	Organization	13
+Nongovernmental Organization Member or Nongovernmental Organization	Organization	14
+Unwilling/Coerced Recruit	Organization	15
+Willing Recruit	Organization	16
+Religious or Religious Organization	Organization	17
+Targeted Individual or Organization	Organization	18
+Terrorist or Terrorist Organization	Organization	19
+Speaker	Organization	20
+{Disused}		21
+{Disused}		22
+Other	Composite Loss	23
+Loot	Crime	24
+{Disused}		25
+{Disused}		26

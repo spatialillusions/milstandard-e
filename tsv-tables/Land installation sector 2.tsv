@@ -1,1 +1,13 @@
 Second Modifier	Category	Code	Remarks
+Biological Warfare Production	Capability	01
+Chemical Warfare Production	Capability	02
+Nuclear Warfare Production	Capability	03
+Radiological Warfare Production	Capability	04
+Atomic Energy Reactor	Capability	05
+Nuclear Material Production	Capability	06
+Nuclear Material Storage	Capability	07
+Weapons Grade Production	Capability	08
+{Disused}		09
+Transportation	Capability	10
+Displaced Persons, Refugees Or Evacuees		11
+Training		12

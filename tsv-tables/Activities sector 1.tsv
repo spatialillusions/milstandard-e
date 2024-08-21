@@ -1,1 +1,25 @@
 First Modifier	Category	Code	Remarks
+{Disused}		01
+{Disused}		02
+{Disused}		03
+House–to–House	Military Information Support Operations	04
+{Disused}		05
+Murder	Crime	06
+{Disused}		07
+{Disused}		08
+Written Military Information Support Operations	Military Information Support Operations	09
+Pirate	Crime	10
+False	IED Category	11
+Find	IED Category	12
+Found and Cleared	IED Category	13
+Hoax (Decoy)	IED Category	14
+Attempted	Incident Qualifier	15
+{Disused}		16
+Incident	Incident Qualifier	17
+Theft	Crime	18
+{Disused}		19
+{Disused}		20
+Eviction	Incident Qualifier	21
+Raid	Incident Qualifier	22
+Gang	Crime	23
+Meeting		24
