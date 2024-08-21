@@ -1,1 +1,17 @@
 First Modifier	Capability	Code	Remarks
+Defensive Cyberspace	Capability	01
+Offensive Cyberspace	Capability	02
+Social	Capability	03/06
+Response Actions	Capability	03
+Wired	Capability	04/07
+External Defense Measures	Capability	04
+Internal Defense Measures	Capability	05
+Wireless	Capability	05
+Radio Frequency	Capability	06/08
+Operating System	Capability	07/09
+Continuity of Operations	Capability	08
+Internet Service Provider (ISP)	Capability	09
+Finance	Capability	10
+Out of Band	Capability	11
+Cloud		12
+Data		13
