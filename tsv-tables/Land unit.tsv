@@ -4,7 +4,7 @@ Command and Control			110000
 	Civil Affairs 		110200
 	Civil–Military Cooperation 		110300
 	Information Operations		110400
-	Liaison		110500 
+	Liaison		110500
 		Reconnaissance and Liaison Element	110501
 	Military Information Support Operations (MISO)		110600
 		Broadcast Transmitter Antennae	110601
@@ -152,7 +152,7 @@ Sustainment			160000
 	Mortuary Affairs		161600
 	Multiple Classes of Supply		161700
 	NATO Supply Class I		161800
-	NATO Supply Class II		161900 
+	NATO Supply Class II		161900
 	NATO Supply Class III		162000
 	NATO Supply Class IV		162100
 	NATO Supply Class V		162200
