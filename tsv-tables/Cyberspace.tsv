@@ -3,8 +3,8 @@ Cyberspace Unit/Cyberspace Unit (non specified)			110000
 	Combat Mission Team		110100
 	National Mission Team		110200
 	Cyber Protection Team		110300
-	Nation State		110400
-	Nation State Sponsored		110500
+	{Disused}		110400
+	{Disused}		110500
 	Defensive Cyberspace 		110600
 	Offensive Cyberspace 		110700
 	Internet Service Provider		110800
@@ -46,7 +46,3 @@ Endpoint			170000
 	Router		170600
 	Switch		170700
 Network			180000
-Paths			200000
-	Data Path Segment		200100
-	Data Tunnel		200200
-Terrain			210000
