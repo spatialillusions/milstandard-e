@@ -44,8 +44,3 @@ Military			110000
 		Non-Lethal Weapon	110401
 		Non-Lethal Grenade Launcher	110402
 		Taser	110403
-Civilian			120000
-	Activity/Task		120100
-		Police	120101
-		Non-Governmental Organization Member Or Non-Governmental Organization (NGO) 	120102
-		Government Organization (GO) 	120103

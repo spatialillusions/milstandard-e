@@ -22,8 +22,6 @@ Military/Civilian			110000
 	Tented Camp		111900
 		Displaced Persons/ Refugee/Evacuees Camp	111901
 		Training Camp	111902
-		Civilian Camp	111903
-		Military Camp	111904
 	Warehouse/Storage Facility		112000
 		Grenade	112001
 	Law Enforcement		112100
@@ -43,7 +41,6 @@ Military/Civilian			110000
 		Fire Station	112201
 		Emergency Medical Operation	112202
 	Home/House		112300
-	Non-Governmental Organization		112400
 Infrastructure			120000
 	Agriculture and Food		120100
 		Agriculture Laboratory	120101
