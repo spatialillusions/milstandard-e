@@ -1,6 +1,6 @@
 {
   "name": "milstandard-e",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Military symbol standards in JSON format",
   "main": "milstandard.js",
   "module": "milstandard.esm.js",

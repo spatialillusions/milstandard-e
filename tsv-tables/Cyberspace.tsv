@@ -11,15 +11,11 @@ Cyberspace Unit/Cyberspace Unit (non specified)			110000
 	Security/Security Operations		110900
 	Operations/Active Cyber Operations		111000
 Threat Actors			120000
-	Criminal		130100
 	Insider		120200
 Agent			130000
 	Firewall		130100
 	Firmware		130200
 Application			140000
-	Banking		150100
-	Cloud		150200
-	Fileserver		140200
 	Search Engine		140300
 	Social Media		140400
 Threat			150000
