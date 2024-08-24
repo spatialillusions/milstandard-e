@@ -64,8 +64,8 @@ import mil_std_signals_intelligence_m1 from "./../tsv-tables/Signals intelligenc
 import mil_std_signals_intelligence_m2 from "./../tsv-tables/Signals intelligence sector 2.tsv";
 
 import mil_std_cyberspace_mainIcon from "./../tsv-tables/Cyberspace.tsv";
-import mil_std_cyberspace_m1 from "./../tsv-tables/Signals intelligence sector 1.tsv";
-import mil_std_cyberspace_m2 from "./../tsv-tables/Sea subsurface sector 2.tsv";
+import mil_std_cyberspace_m1 from "./../tsv-tables/Cyberspace sector 1.tsv";
+import mil_std_cyberspace_m2 from "./../tsv-tables/Cyberspace sector 2.tsv";
 
 export default {
   common: {

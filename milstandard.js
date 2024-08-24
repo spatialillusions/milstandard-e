@@ -121,7 +121,7 @@
 
   var mil_std_sea_subsurface_m1 = "First Modifier\tCategory\tCode\tRemarks\n{Disused}\t\t01\nAuxiliary\tMission Area\t02\n{Disused}\t\t03\n{Disused}\t\t04\n{Disused}\t\t05\n{Disused}\t\t06\n{Disused}\t\t07\n{Disused}\t\t08\n{Disused}\t\t09\n{Disused}\t\t10\n{Disused}\t\t11\n{Disused}\t\t12\nPossible Submarine Low 1\tSubmarine Confidence\t13\nPossible Submarine Low 2\tSubmarine Confidence\t14\nPossible Submarine High 3\tSubmarine Confidence\t15\nPossible Submarine High 4\tSubmarine Confidence\t16\nProbable Submarine\tSubmarine Confidence\t17\nCertain Submarine\tSubmarine Confidence\t18\nAnti-torpedo Torpedo\tWeapons Capability\t19\n{Disused}\tCrime\t20\n{Disused}\tCrime\t21\n{Disused}\t\t22";
 
-  var mil_std_cyberspace_m2 = "Second Modifier\tCategory\tCode\tRemarks\nAir Independent Propulsion\tShip Propulsion\t01\nDiesel Electric, General\tShip Propulsion\t02\nDiesel – Type 1\tShip Propulsion\t03\nDiesel – Type 2\tShip Propulsion\t04\nDiesel – Type 3\tShip Propulsion\t05\nNuclear Powered, General\tShip Propulsion\t06\nNuclear – Type 1\tShip Propulsion\t07\nNuclear – Type 2\tShip Propulsion\t08\nNuclear – Type 3\tShip Propulsion\t09\nNuclear – Type 4\tShip Propulsion\t10\nNuclear – Type 5\tShip Propulsion\t11\nNuclear – Type 6\tShip Propulsion\t12\nNuclear – Type 7\tShip Propulsion\t13\n{Disused}\t\t14\n{Disused}\t\t15\n{Disused}\t\t16\n{Disused}\t\t17";
+  var mil_std_sea_subsurface_m2 = "Second Modifier\tCategory\tCode\tRemarks\nAir Independent Propulsion\tShip Propulsion\t01\nDiesel Electric, General\tShip Propulsion\t02\nDiesel – Type 1\tShip Propulsion\t03\nDiesel – Type 2\tShip Propulsion\t04\nDiesel – Type 3\tShip Propulsion\t05\nNuclear Powered, General\tShip Propulsion\t06\nNuclear – Type 1\tShip Propulsion\t07\nNuclear – Type 2\tShip Propulsion\t08\nNuclear – Type 3\tShip Propulsion\t09\nNuclear – Type 4\tShip Propulsion\t10\nNuclear – Type 5\tShip Propulsion\t11\nNuclear – Type 6\tShip Propulsion\t12\nNuclear – Type 7\tShip Propulsion\t13\n{Disused}\t\t14\n{Disused}\t\t15\n{Disused}\t\t16\n{Disused}\t\t17";
 
   var mil_std_mine_warfare_mainIcon = "Entity\tEntity Type\tEntity Subtype\tCode\tRemarks\nSea Mine, General\t\t\t110000\n\tSea Mine, Bottom\t\t110100\n\tSea Mine, Moored\t\t110200\n\tSea Mine, Floating\t\t110300\n\tSea Mine, Rising\t\t110400\n\tSea Mine, Other Position\t\t110500\n\tKingfisher\t\t110600\n\tSmall Object, Mine–Like\t\t110700\n\tExercise Mine, General\t\t110800\n\t\tExercise Mine, Bottom\t110801\n\t\tExercise Mine, Moored\t110802\n\t\tExercise Mine, Floating\t110803\n\t\tExercise Mine, Rising\t110804\n\tNeutralized Mine, General\t\t110900\n\t\tNeutralized Mine, Bottom\t110901\n\t\tNeutralized Mine, Moored\t110902\n\t\tNeutralized Mine, Floating\t110903\n\t\tNeutralized Mine, Rising\t110904\n\t\tNeutralized Mine, Other Position\t110905\nUnexploded Ordnance\t\t\t120000\nSea Mine Decoy\t\t\t130000\n\tSea Mine Decoy, Bottom\t\t130100\n\tSea Mine Decoy, Moored\t\t130200\nMine–Like Contact (MILCO)\t\t\t140000\n\tMILCO - General\t\t140100\n\t\tMILCO - General, Confidence Level 1\t140101\n\t\tMILCO - General, Confidence Level 2\t140102\n\t\tMILCO - General, Confidence Level 3\t140103\n\t\tMILCO - General, Confidence Level 4\t140104\n\t\tMILCO - General, Confidence Level 5\t140105\n\tMILCO - Bottom\t\t140200\n\t\tMILCO - Bottom, Confidence Level 1\t140201\n\t\tMILCO - Bottom, Confidence Level 2\t140202\n\t\tMILCO - Bottom, Confidence Level 3\t140203\n\t\tMILCO - Bottom, Confidence Level 4\t140204\n\t\tMILCO - Bottom, Confidence Level 5\t140205\n\tMILCO - Moored\t\t140300\n\t\tMILCO - Moored, Confidence Level 1\t140301\n\t\tMILCO - Moored, Confidence Level 2\t140302\n\t\tMILCO - Moored, Confidence Level 3\t140303\n\t\tMILCO - Moored, Confidence Level 4\t140304\n\t\tMILCO - Moored, Confidence Level 5\t140305\n\tMILCO - Floating\t\t140400\n\t\tMILCO - Floating, Confidence Level 1\t140401\n\t\tMILCO - Floating, Confidence Level 2\t140402\n\t\tMILCO - Floating, Confidence Level 3\t140403\n\t\tMILCO - Floating, Confidence Level 4\t140404\n\t\tMILCO - Floating, Confidence Level 5\t140405\nMine–Like Echo (MILEC), General\t\t\t150000\n\tMine–Like Echo, Bottom\t\t150100\n\tMine–Like Echo, Moored\t\t150200\n\tMine–Like Echo, Floating\t\t150300\nNegative Reacquisition, General\t\t\t160000\n\tNegative Reacquisition, Bottom\t\t160100\n\tNegative Reacquisition, Moored\t\t160200\n\tNegative Reacquisition, Floating\t\t160300\nObstructor\t\t\t170000\n\tNeutralized Obstructor\t\t170100\nGeneral Mine Anchor\t\t\t180000\nNon-Mine Mine–Like Object (NMLO), General\t\t\t190000\n\tNon-Mine Mine–Like Object, Bottom\t\t190100\n\tNon-Mine Mine–Like Object, Moored\t\t190200\n\tNon-Mine Mine–Like Object, Floating\t\t190300\nEnvironmental Report Location\t\t\t200000\nDive Report Location\t\t\t210000";
 
@@ -133,11 +133,15 @@
 
   var mil_std_signals_intelligence_mainIcon = "Entity\tEntity Type\tEntity Subtype\tCode\tRemarks\nSignal Intercept\tSignal Intercept\t\t110000\n\tCommunications\t\t110100\n\tJammer\t\t110200\n\tRadar\t\t110300";
 
-  var mil_std_cyberspace_m1 = "First Modifier\tCategory\tCode\tRemarks\nAnti-Aircraft Fire Control\tRadar\t01\nAirborne Search and Bombing\tRadar\t02\nAirborne Intercept\tRadar\t03\nAltimeter\tRadar\t04\nAirborne Reconnaissance and Mapping\tRadar\t05\nAir Traffic Control\tRadar\t06\nBeacon Transponder (not IFF)\tRadar\t07\nBattlefield Surveillance\tRadar\t08\nControlled Approach\tRadar\t09\nControlled Intercept\tRadar\t10\nCellular/Mobile\tCommunications\t11\nCoastal Surveillance\tRadar\t12\nDecoy/Mimic\tRadar\t13\nData Transmission\tRadar\t14\nEarth Surveillance\tRadar\t15\nEarly Warning\tRadar\t16\nFire Control\tRadar\t17\nGround Mapping\tRadar\t18\nHeight Finding\tRadar\t19\nHarbor Surveillance\tRadar\t20\nIdentification, Friend or Foe (Interrogator)\tRadar\t21\nInstrument Landing System\tRadar\t22\nIonospheric Sounding\tRadar\t23\nIdentification, Friend or Foe (Transponder)\tRadar\t24\nBarrage Jammer\tJammer\t25\nClick Jammer\tJammer\t26\nDeceptive Jammer\tJammer\t27\nFrequency Swept Jammer\tJammer\t28\nJammer (general)\tJammer\t29\nNoise Jammer\tJammer\t30\nPulsed Jammer\tJammer\t31\nRepeater Jammer\tJammer\t32\nSpot Noise Jammer\tJammer\t33\nTransponder Jammer\tJammer\t34\nMissile Acquisition\tRadar\t35\nMissile Control\tJammer\t36\nMissile Downlink\tAir Radar\t37\nMeteorological\tRadar\t38\nMulti-Function\tJammer\t39\nMissile Guidance\tRadar\t40\nMissile Homing\tRadar\t41\nMissile Tracking\tJammer\t42\nNavigational/General\tJammer\t43\nNavigational/Distance Measuring Equipment\tJammer\t44\nNavigation/Terrain Following\tJammer\t45\nNavigational/Weather Avoidance\tJammer\t46\nOmni-Line of Sight (LOS)\tJammer\t47\nProximity Use\tAir Radar\t48\nPoint-to-Point Line of Sight (LOS)\tCommunications\t49\nInstrumentation\tRadar\t50\nRange Only\tRadar\t51\nSonobuoy\tRadar\t52\nSatellite Downlink\tCommunications\t53\nSpace\tRadar\t54\nSurface Search\tRadar\t55\nShell Tracking\tLand Radar\t56\nSatellite Uplink\tCommunications\t57\nTarget Acquisition\tRadar\t58\nTarget Illumination\tRadar\t59\nTropospheric Scatter\tCommunications\t60\nTarget Tracking\tRadar\t61\nUnknown\tRadar\t62\nVideo Remoting\tRadar\t63\nExperimental\tRadar\t64\n{Disused}\t\t65";
+  var mil_std_signals_intelligence_m1 = "First Modifier\tCategory\tCode\tRemarks\nAnti-Aircraft Fire Control\tRadar\t01\nAirborne Search and Bombing\tRadar\t02\nAirborne Intercept\tRadar\t03\nAltimeter\tRadar\t04\nAirborne Reconnaissance and Mapping\tRadar\t05\nAir Traffic Control\tRadar\t06\nBeacon Transponder (not IFF)\tRadar\t07\nBattlefield Surveillance\tRadar\t08\nControlled Approach\tRadar\t09\nControlled Intercept\tRadar\t10\nCellular/Mobile\tCommunications\t11\nCoastal Surveillance\tRadar\t12\nDecoy/Mimic\tRadar\t13\nData Transmission\tRadar\t14\nEarth Surveillance\tRadar\t15\nEarly Warning\tRadar\t16\nFire Control\tRadar\t17\nGround Mapping\tRadar\t18\nHeight Finding\tRadar\t19\nHarbor Surveillance\tRadar\t20\nIdentification, Friend or Foe (Interrogator)\tRadar\t21\nInstrument Landing System\tRadar\t22\nIonospheric Sounding\tRadar\t23\nIdentification, Friend or Foe (Transponder)\tRadar\t24\nBarrage Jammer\tJammer\t25\nClick Jammer\tJammer\t26\nDeceptive Jammer\tJammer\t27\nFrequency Swept Jammer\tJammer\t28\nJammer (general)\tJammer\t29\nNoise Jammer\tJammer\t30\nPulsed Jammer\tJammer\t31\nRepeater Jammer\tJammer\t32\nSpot Noise Jammer\tJammer\t33\nTransponder Jammer\tJammer\t34\nMissile Acquisition\tRadar\t35\nMissile Control\tJammer\t36\nMissile Downlink\tAir Radar\t37\nMeteorological\tRadar\t38\nMulti-Function\tJammer\t39\nMissile Guidance\tRadar\t40\nMissile Homing\tRadar\t41\nMissile Tracking\tJammer\t42\nNavigational/General\tJammer\t43\nNavigational/Distance Measuring Equipment\tJammer\t44\nNavigation/Terrain Following\tJammer\t45\nNavigational/Weather Avoidance\tJammer\t46\nOmni-Line of Sight (LOS)\tJammer\t47\nProximity Use\tAir Radar\t48\nPoint-to-Point Line of Sight (LOS)\tCommunications\t49\nInstrumentation\tRadar\t50\nRange Only\tRadar\t51\nSonobuoy\tRadar\t52\nSatellite Downlink\tCommunications\t53\nSpace\tRadar\t54\nSurface Search\tRadar\t55\nShell Tracking\tLand Radar\t56\nSatellite Uplink\tCommunications\t57\nTarget Acquisition\tRadar\t58\nTarget Illumination\tRadar\t59\nTropospheric Scatter\tCommunications\t60\nTarget Tracking\tRadar\t61\nUnknown\tRadar\t62\nVideo Remoting\tRadar\t63\nExperimental\tRadar\t64\n{Disused}\t\t65";
 
   var mil_std_signals_intelligence_m2 = "Second Modifier\tCategory\tCode\tRemarks\n{Disused}\t\t01";
 
   var mil_std_cyberspace_mainIcon = "Entity\tEntity Type\tEntity Subtype\tCode\tRemarks\nCyberspace Unit/Cyberspace Unit (non specified)\t\t\t110000\n\tCombat Mission Team\t\t110100\n\tNational Mission Team\t\t110200\n\tCyber Protection Team\t\t110300\n\t{Disused}\t\t110400\n\t{Disused}\t\t110500\n\tDefensive Cyberspace \t\t110600\n\tOffensive Cyberspace \t\t110700\n\tInternet Service Provider\t\t110800\n\tSecurity/Security Operations\t\t110900\n\tOperations/Active Cyber Operations\t\t111000\nThreat Actors\t\t\t120000\n\tInsider\t\t120200\nAgent\t\t\t130000\n\tFirewall\t\t130100\n\tFirmware\t\t130200\nApplication\t\t\t140000\n\tSearch Engine\t\t140300\n\tSocial Media\t\t140400\nThreat\t\t\t150000\n\tMalware\t\t150100\n\tPhishing\t\t150200\n\tSpear Phishing\t\t150300\n\tWhale Phishing\t\t150400\nData\t\t\t160000\n\tDigital Currency\t\t160100\n\tPersona\t\t160200\nEndpoint\t\t\t170000\n\tServer\t\t170100\n\tWorkstation\t\t170200\n\tPortable Electronic Device (PED)\t\t170300\n\t\tSmartphone/Mobile\t170301\n\t\tTablet/Mobile Personal Device\t170302\n\t\tLaptop\t170303\n\t\tHealth Monitor\t170304\n\t\tSmartvest\t170305\n\t\tSmartwatch\t170306\n\t\tWearable\t170307\n\tInternet of Things Device\t\t170400\n\tPrinter\t\t170500\n\tRouter\t\t170600\n\tSwitch\t\t170700\nNetwork\t\t\t180000";
+
+  var mil_std_cyberspace_m1 = "First Modifier\tCapability\tCode\tRemarks\r\nDefensive Cyberspace\tCapability\t01\r\nOffensive Cyberspace\tCapability\t02\r\nSocial\tCapability\t03/06\r\nResponse Actions\tCapability\t03\r\nWired\tCapability\t04/07\r\nExternal Defense Measures\tCapability\t04\r\nInternal Defense Measures\tCapability\t05\r\nWireless\tCapability\t05\r\nRadio Frequency\tCapability\t06/08\r\nOperating System\tCapability\t07/09\r\nContinuity of Operations\tCapability\t08\r\nInternet Service Provider (ISP)\tCapability\t09\r\nFinance\tCapability\t10\r\nOut of Band\tCapability\t11\r\nCloud\t\t12\r\nData\t\t13";
+
+  var mil_std_cyberspace_m2 = "Second Modifier\tCategory\tCode\tRemarks\nSecured\tCapability\t01\nOpen\tCapability\t02\nResponse Actions\tCapability\t03\nExternal Defense Measures\tCapability\t04\nInternal Defense Measures\tCapability\t05\nAdvanced Persistent Threat\tCapability\t06\nNation State\t\t07\nNation State Sponsored\t\t08";
 
   var _2525e = {
     common: {
@@ -229,7 +233,7 @@
       name: "Sea subsurface",
       mainIcon: csv2json(mil_std_sea_subsurface_mainIcon),
       modifier1: csv2json(mil_std_sea_subsurface_m1),
-      modifier2: csv2json(mil_std_cyberspace_m2),
+      modifier2: csv2json(mil_std_sea_subsurface_m2),
     },
     36: {
       symbolset: "36",
@@ -249,35 +253,35 @@
       symbolset: "50",
       name: "Signals Intelligence – Space",
       mainIcon: csv2json(mil_std_signals_intelligence_mainIcon),
-      modifier1: csv2json(mil_std_cyberspace_m1),
+      modifier1: csv2json(mil_std_signals_intelligence_m1),
       modifier2: csv2json(mil_std_signals_intelligence_m2),
     },
     51: {
       symbolset: "51",
       name: "Signals Intelligence – Air",
       mainIcon: csv2json(mil_std_signals_intelligence_mainIcon),
-      modifier1: csv2json(mil_std_cyberspace_m1),
+      modifier1: csv2json(mil_std_signals_intelligence_m1),
       modifier2: csv2json(mil_std_signals_intelligence_m2),
     },
     52: {
       symbolset: "52",
       name: "Signals Intelligence – Land",
       mainIcon: csv2json(mil_std_signals_intelligence_mainIcon),
-      modifier1: csv2json(mil_std_cyberspace_m1),
+      modifier1: csv2json(mil_std_signals_intelligence_m1),
       modifier2: csv2json(mil_std_signals_intelligence_m2),
     },
     53: {
       symbolset: "53",
       name: "Signals Intelligence – Surface",
       mainIcon: csv2json(mil_std_signals_intelligence_mainIcon),
-      modifier1: csv2json(mil_std_cyberspace_m1),
+      modifier1: csv2json(mil_std_signals_intelligence_m1),
       modifier2: csv2json(mil_std_signals_intelligence_m2),
     },
     54: {
       symbolset: "54",
       name: "Signals Intelligence – Subsurface",
       mainIcon: csv2json(mil_std_signals_intelligence_mainIcon),
-      modifier1: csv2json(mil_std_cyberspace_m1),
+      modifier1: csv2json(mil_std_signals_intelligence_m1),
       modifier2: csv2json(mil_std_signals_intelligence_m2),
     },
     60: {
