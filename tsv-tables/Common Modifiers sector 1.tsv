@@ -43,8 +43,7 @@ Radiological	CBRN	140
 Nuclear	CBRN	141
 Decontamination	CBRN	142
 Civilian	Organization	143
-"Government Organization/
-Government Organization Member"	Organization	144
+Government Organization / Government Organization Member	Organization	144
 Accident	Composite Loss or Incident Qualifier	145
 Assassination	Crime	146
 Execution	Crime	147
@@ -67,12 +66,3 @@ Battalion	Support Level	163
 Directed Energy	Capability	164
 Hijacker	Crime	165
 Electromagnetic	Capability	166
-Foreign Fighters	Organization	167
-Laboratory		168
-Leader	Organization	169
-Non-Government Organization	Organization	170
-Railway	Capability	171
-Religious	Organization	172
-Terrorist	Crime	173
-Clear		174
-Jamming 		175
