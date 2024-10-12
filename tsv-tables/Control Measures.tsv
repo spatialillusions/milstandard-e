@@ -64,7 +64,7 @@ Maneuver Lines				140000
 	Holding Line		Line	141500
 	Release Line		Line	141600
 	Ambush		Line	141700
-	Holdover Line 		Line	141800
+	Holdover Line		Line	141800
 	Battle Handover Line		Line	141900
 	Named Area of Interest Line		Line	142000
 	Mobility Corridor		Line	142100
@@ -302,7 +302,7 @@ Maritime Control Lines				220000
 		Electro-Optical Intercept	Line	220106
 		Jammer	Line	220107
 		Radio Direction Finder (RDF)	Line	220108
-Deception				230000 
+Deception				230000
 	Deceive/Decoy/Dummy/Feint			230200
 Fires Areas				240000
 	Airspace Coordination Area			240100
