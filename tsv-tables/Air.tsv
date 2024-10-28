@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Military			110000
+Military			110000	Reserved for hierarchical purposes.
 	Fixed Wing		110100
 		Medical Evacuation (MEDEVAC)	110101
 		Attack/Strike	110102
@@ -40,7 +40,7 @@ Military			110000
 	Lighter Than Air		110500
 	Airship		110600
 	Tethered Lighter than Air		110700
-Civilian			120000
+Civilian			120000	Reserved for hierarchical purposes.
 	Fixed Wing		120100
 	Rotary Wing		120200
 	Unmanned Aircraft (UA) / Unmanned Aerial Vehicle (UAV) / Unmanned Aircraft System (UAS) / Remotely Piloted Vehicle (RPV)		120300
@@ -48,7 +48,7 @@ Civilian			120000
 	Airship		120500
 	Tethered Lighter than Air		120600
 	Medical Evacuation (MEDEVAC)		120700
-Weapon			130000
+Weapon			130000	Reserved for hierarchical purposes.
 	Bomb		130100
 	Decoy		130200
 Manual Track	Manual Track		140000

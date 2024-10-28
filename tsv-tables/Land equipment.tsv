@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Weapon/Weapon System			110000
+Weapon/Weapon System			110000	Reserved for hierarchical purposes.
 	Rifle		110100
 		Single Shot Rifle	110101
 		Semiautomatic Rifle	110102
@@ -74,8 +74,8 @@ Weapon/Weapon System			110000
 	Nonlethal Weapon		111800
 	Taser		111900
 	Water Cannon		112000
-Vehicle			120000
-	Armored		120100
+Vehicle			120000	Reserved for hierarchical purposes.
+	Armored		120100	Reserved for hierarchical purposes.
 		Armored Fighting Vehicle	120101
 		Armored Fighting Vehicle Command and Control	120102
 		Armored Personnel Carrier	120103
@@ -123,7 +123,7 @@ Engineer Vehicle and Equipment			130000
 	Backhoe		131400
 	Construction Vehicle		131500
 	Ferry Transporter		131600
-Utility Vehicle			140000
+Utility Vehicle			140000	Reserved for hierarchical purposes.
 	Vehicle (Generic)		140100
 	Medical		140200
 	{Disused}		140300
@@ -141,9 +141,9 @@ Utility Vehicle			140000
 	Tow Truck		141200
 		Light	141201
 		Heavy	141202
-Train			150000
+Train			150000	Reserved for hierarchical purposes.
 	Locomotive		150100
-Civilian Vehicle			160000
+Civilian Vehicle			160000	Reserved for hierarchical purposes.
 	Automobile		160100
 	Open-Bed Truck		160200
 	Multiple Passenger Vehicle		160300
@@ -172,7 +172,7 @@ Missile Support			190000
 	Crane/Loading Device		190300
 	Propellant Transporter		190400
 	Warhead Transporter		190500
-Other Equipment			200000
+Other Equipment			200000	Reserved for hierarchical purposes.
 	Antennae		200100
 	Bomb		200200
 	Booby Trap		200300
@@ -185,18 +185,18 @@ Other Equipment			200000
 	Directed Energy		201000
 	Military Information Support Operations (MISO)		201100
 	Sustainment Shipments		201200
-	Tent		201300
+	Tent		201300	Reserved for hierarchical purposes.
 		Civilian	201301
 		Military	201302
 	Unit Deployment Shipments		201400
 	Emergency Medical Operation		201500
-Land Mines			210000
+Land Mines			210000	Reserved for hierarchical purposes.
 	Land Mine		210100
 	Antipersonnel Land mine (APL)		210200
 	Antitank Mine		210300
 	Improvised Explosives Device (IED)		210400
 	Less Than Lethal		210500
-Sensors			220000
+Sensors			220000	Reserved for hierarchical purposes.
 	Sensor		220100
 	Sensor Emplaced		220200
 	Radar		220300

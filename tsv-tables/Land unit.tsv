@@ -22,7 +22,7 @@ Command and Control			110000
 	Space		111300
 	Special Troops		111400
 	Multi-Domain Operations		111500
-Movement and Maneuver			120000
+Movement and Maneuver			120000	Reserved for hierarchical purposes.
 	Air Assault with Organic Lift		120100
 	Air Traffic Services/Airfield Operations		120200
 	{Disused}		120300
@@ -63,7 +63,7 @@ Movement and Maneuver			120000
 		Underwater Demolition	121805
 	Unmanned Aerial Systems		121900
 	Ranger		122000
-Fires			130000
+Fires			130000	Reserved for hierarchical purposes.
 	Air Defense		130100
 		Main Gun System	130101
 		Missile	130102
@@ -78,7 +78,7 @@ Fires			130000
 		{Disused}	130801
 		Self-Propelled Wheeled	130802
 	Survey		130900
-Protection			140000
+Protection			140000	Reserved for hierarchical purposes.
 	Chemical Biological Radiological Nuclear Defense		140100
 		{Disused}	140101
 		Motorized	140102
@@ -113,7 +113,7 @@ Protection			140000
 	Shore Patrol/Security Police		142000
 	Topographic/Geospatial		142100
 	Missile Defense		142200
-Intelligence			150000
+Intelligence			150000	Reserved for hierarchical purposes.
 	Analysis		150100
 	Counterintelligence		150200
 	Direction Finding		150300
@@ -190,9 +190,9 @@ Sustainment			160000
 	Contracting Services		165400
 	Parachute Rigger		165500
 	Human Resources		165600
-Naval 			170000
+Naval 			170000	Reserved for hierarchical purposes.
 	Naval		170100
-Named Headquarters			180000
+Named Headquarters			180000	Reserved for hierarchical purposes.
 	Allied Command Europe Rapid Reaction Corps (ARRC)		180100
 	Allied Command Operations		180200
 	International Security Assistance Force (ISAF)		180300

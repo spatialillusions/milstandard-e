@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Military/Civilian			110000
+Military/Civilian			110000	Reserved for hierarchical purposes.
 	Aircraft Production/Assembly		110100
 	Ammunition and Explosives Production		110200
 	Ammunition Cache		110300
@@ -41,7 +41,7 @@ Military/Civilian			110000
 		Fire Station	112201
 		Emergency Medical Operation	112202
 	Home/House		112300
-Infrastructure			120000
+Infrastructure			120000	Reserved for hierarchical purposes.
 	Agriculture and Food		120100
 		Agriculture Laboratory	120101
 		Animal Feedlot	120102
@@ -81,7 +81,7 @@ Infrastructure			120000
 		Petroleum/Gas/Oil	120505
 		Propane Facility	120506
 	Government Site 		120600
-	Medical 		120700
+	Medical 		120700	Reserved for hierarchical purposes.
 		Medical	120701
 		Medical Treatment Facility (Hospital)	120702
 	Military 		120800
@@ -118,7 +118,7 @@ Infrastructure			120000
 		Toll Facility	121311
 		Traffic Inspection Facility	121312
 		Tunnel	121313
-	Water Supply 		121400
+	Water Supply 		121400	Reserved for hierarchical purposes.
 		Control Valve	121401
 		Dam	121402
 		Discharge Outfall	121403

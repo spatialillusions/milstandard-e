@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Civilian			110000
+Civilian			110000	Reserved for hierarchical purposes.
 	Environmental Protection		110100
 	Government Organization		110200
 	Individual		110300

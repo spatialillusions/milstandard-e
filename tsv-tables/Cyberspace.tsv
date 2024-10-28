@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Cyberspace Unit/Cyberspace Unit (non specified)			110000
+Cyberspace Unit/Cyberspace Unit (non specified)			110000	Reserved for hierarchical purposes.
 	Combat Mission Team		110100
 	National Mission Team		110200
 	Cyber Protection Team		110300
@@ -12,13 +12,13 @@ Cyberspace Unit/Cyberspace Unit (non specified)			110000
 	Operations/Active Cyber Operations		111000
 Threat Actors			120000
 	Insider		120200
-Agent			130000
+Agent			130000	Reserved for hierarchical purposes.
 	Firewall		130100
 	Firmware		130200
 Application			140000
 	Search Engine		140300
 	Social Media		140400
-Threat			150000
+Threat			150000	Reserved for hierarchical purposes.
 	Malware		150100
 	Phishing		150200
 	Spear Phishing		150300
@@ -26,10 +26,10 @@ Threat			150000
 Data			160000
 	Digital Currency		160100
 	Persona		160200
-Endpoint			170000
+Endpoint			170000	Reserved for hierarchical purposes.
 	Server		170100
 	Workstation		170200
-	Portable Electronic Device (PED)		170300
+	Portable Electronic Device (PED)		170300	Reserved for hierarchical purposes.
 		Smartphone/Mobile	170301
 		Tablet/Mobile Personal Device	170302
 		Laptop	170303

@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Incident			110000
+Incident			110000	Reserved for hierarchical purposes.
 	Criminal Activity Incident		110100
 		Arrest/Apprehend/Detain	110101
 		Arson	110102
@@ -46,12 +46,12 @@ Incident			110000
 	Home/House		110700
 Civil Disturbance			120000
 	Demonstration		120100
-Operation			130000
+Operation			130000	Reserved for hierarchical purposes.
 	Patrolling		130100
 	Military Information Support Operation (MISO)		130200
 		TV and Radio Propaganda	130201
 	Foraging/Searching		130300
-	Recruitment		130400
+	Recruitment		130400	Reserved for hierarchical purposes.
 		Willing	130401
 		Unwilling/Coerced	130402
 	Mine Laying		130500
@@ -105,7 +105,7 @@ Fire Event			140000
 	School Fire		140600
 	Special Needs Fire		140700
 	WildFire		140800
-Hazardous Materials			150000
+Hazardous Materials			150000	Reserved for hierarchical purposes.
 	Hazardous Materials Incident		150100
 		Chemical Agent	150101
 		Corrosive Material	150102
@@ -122,14 +122,14 @@ Hazardous Materials			150000
 		Toxic Gas	150113
 		Toxic Infectious Material	150114
 		Unexploded Ordnance	150115
-Transportation Incident			160000
+Transportation Incident			160000	Reserved for hierarchical purposes.
 	Air		160100
 	Marine		160200
 	Rail		160300
 	Vehicle		160400
 	Wheeled Vehicle Explosion		160500
-Natural Event			170000
-	Geologic		170100
+Natural Event			170000	Reserved for hierarchical purposes.
+	Geologic		170100	Reserved for hierarchical purposes.
 		Aftershock	170101
 		Avalanche	170102
 		Earthquake Epicenter	170103
@@ -138,16 +138,16 @@ Natural Event			170000
 		Volcanic Eruption	170106
 		Volcanic Threat	170107
 		Cave Entrance	170108
-	Hydro-Meteorological		170200
+	Hydro-Meteorological		170200	Reserved for hierarchical purposes.
 		Drought	170201
 		Flood	170202
 		Tsunami	170203
-	Infestation		170300
+	Infestation		170300	Reserved for hierarchical purposes.
 		Bird	170301
 		Insect	170302
 		Microbial	170303
 		Reptile	170304
 		Rodent	170305
-Individual			180000
+Individual			180000	Reserved for hierarchical purposes.
 	Religious Leader		180100
 	Speaker		180200

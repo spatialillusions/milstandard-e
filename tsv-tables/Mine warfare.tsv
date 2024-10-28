@@ -22,7 +22,7 @@ Unexploded Ordnance			120000
 Sea Mine Decoy			130000
 	Sea Mine Decoy, Bottom		130100
 	Sea Mine Decoy, Moored		130200
-Mine–Like Contact (MILCO)			140000
+Mine–Like Contact (MILCO)			140000	Reserved for hierarchical purposes.
 	MILCO - General		140100
 		MILCO - General, Confidence Level 1	140101
 		MILCO - General, Confidence Level 2	140102

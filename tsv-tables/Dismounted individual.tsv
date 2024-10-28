@@ -1,7 +1,7 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Military			110000
+Military			110000	Reserved for hierarchical purposes.
 	{Disused}		110100
-	Activity/Task		110200
+	Activity/Task		110200	Reserved for hierarchical purposes.
 		Explosive Ordnance Disposal	110201
 		Field Artillery Observer	110202
 		Joint Fire Support	110203
@@ -23,7 +23,7 @@ Military			110000
 		Demolition 	110219
 		Commander  (CDR)	110220
 		Second In Command  (SIC)	110221
-	Lethal Weapons		110300
+	Lethal Weapons		110300	Reserved for hierarchical purposes.
 		Rifle 	110301
 		Single Shot Rifle	110302
 		Semiautomatic Rifle	110303
@@ -40,7 +40,7 @@ Military			110000
 		Mortar	110314
 		Single Rocket Launcher	110315
 		Antitank Rocket Launcher	110316
-	Non-Lethal Weapons		110400
+	Non-Lethal Weapons		110400	Reserved for hierarchical purposes.
 		Non-Lethal Weapon	110401
 		Non-Lethal Grenade Launcher	110402
 		Taser	110403

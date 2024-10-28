@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Signal Intercept	Signal Intercept		110000
+Signal Intercept	Signal Intercept		110000	Reserved for hierarchical purposes.
 	Communications		110100
 	Jammer		110200
 	Radar		110300

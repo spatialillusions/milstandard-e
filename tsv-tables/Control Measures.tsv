@@ -1,11 +1,11 @@
 Entity	Entity Type	Entity Subtype	Geometric Rendering	Code	Remarks	
-Command and Control Lines				110000
+Command and Control Lines				110000	Reserved for hierarchical purposes.
 	Boundary		Line	110100
 	Light Line		Line	110200
 	Engineer Work Line		Line	110300
 	Generic		Line	110400
 	Decision Line		Line	110500
-Command and Control Areas				120000
+Command and Control Areas				120000	Reserved for hierarchical purposes.
 	Area of Operations		Area	120100
 	Named Area of Interest		Area	120200
 	Targeted Area of Interest		Area	120300
@@ -14,7 +14,7 @@ Command and Control Areas				120000
 	Guerrilla Base		Area	120600
 	Generic		Area	120700
 	Bridgehead Area		Area	120800
-Command and Control Points				130000
+Command and Control Points				130000	Reserved for hierarchical purposes.
 	Action Point (General)		Point	130100
 	Amnesty Point		Point	130200
 	Checkpoint		Point	130300
@@ -24,7 +24,7 @@ Command and Control Points				130000
 	Decision Point		Point	130700
 	Distress Call		Point	130800
 	Entry Control Point		Point	130900
-	Fly-To-Point		Point	131000
+	Fly-To-Point		Point	131000	Reserved for hierarchical purposes.
 		Sonobuoy	Point	131001
 		Weapon	Point	131002
 		Normal	Point	131003
@@ -42,7 +42,7 @@ Command and Control Points				130000
 	Key Terrain		Point	132100
 	Control Point		Point	132200
 	Vital Ground		Point	132300
-Maneuver Lines				140000
+Maneuver Lines				140000	Reserved for hierarchical purposes.
 	Forward Line of Troops		Line	140100
 	{Disused}			140200
 	Phase Line		Line	140300
@@ -68,12 +68,12 @@ Maneuver Lines				140000
 	Battle Handover Line		Line	141900
 	Named Area of Interest Line		Line	142000
 	Mobility Corridor		Line	142100
-Maneuver Areas				150000
+Maneuver Areas				150000	Reserved for hierarchical purposes.
 	Area		Area	150100
 	Assembly Area		Area	150200
 	{Disused}		Area	150300
 	{Disused}		Area	150400
-	Action Area		Area	150500
+	Action Area		Area	150500	Reserved for hierarchical purposes.
 		Joint Tactical Action Area (JTAA)	Area	150501
 		Submarine Action Area (SAA)	Area	150502
 		Submarine-Generated Action Area (SGAA)	Area	150503
@@ -89,7 +89,7 @@ Maneuver Areas				150000
 		Contain	Area	151204
 		Retain	Area	151205
 	Engagement Area (EA)		Area	151300
-	Axis of Advance			151400
+	Axis of Advance			151400	Reserved for hierarchical purposes.
 		Friendly Airborne/Aviation	Axis	151401
 		Attack Helicopter	Axis	151402
 		Main Attack	Axis	151403
@@ -106,9 +106,9 @@ Maneuver Areas				150000
 	Avenue of Approach		Area	152300
 	Restricted Terrain		Area	152400
 	Severely Restricted Terrain		Area	152500
-Maneuver Points				160000
+Maneuver Points				160000	Reserved for hierarchical purposes.
 	Observation Post/Outpost (unspecified)		Point	160100
-	Observation Post/Outpost (specified)			160200
+	Observation Post/Outpost (specified)			160200	Reserved for hierarchical purposes.
 		Reconnaissance Outpost	Point	160201
 		Forward Observer/Spotter Outpost/Position	Point	160202
 		CBRN Observation Outpost	Point	160203
@@ -116,7 +116,7 @@ Maneuver Points				160000
 		Combat Outpost	Point	160205
 	Target Reference Point		Point	160300
 	Point of Departure		Point	160400
-Airspace Control (Corridors) Areas				170000
+Airspace Control (Corridors) Areas				170000	Reserved for hierarchical purposes.
 	Air Corridor		Corridor	170100
 	Low Level Transit Route		Corridor	170200
 	Minimum–Risk Route		Corridor	170300
@@ -137,7 +137,7 @@ Airspace Control (Corridors) Areas				170000
 	High Altitude Missile Engagement Zone (HIMEZ)		Area	171800
 	Short Range Air Defense Engagement Zone (SHORADEZ)		Area	171900
 	Weapons Free Zone		Area	172000
-Airspace Control Points				180000
+Airspace Control Points				180000	Reserved for hierarchical purposes.
 	Air Control Point		Point	180100
 	Communications Checkpoint		Point	180200
 	Isolated Personnel Recovery Point		Point	180300
@@ -164,13 +164,13 @@ Airspace Control Points				180000
 	Orbit – Race Track		Point	182400
 	Orbit – Random Closed		Point	182500
 	Isolated Personnel Location		Point	182600
-Airspace Control Lines				190000
+Airspace Control Lines				190000	Reserved for hierarchical purposes.
 	Identification Friend or Foe (IFF) Off Line		Line	190100
 	Identification Friend or Foe (IFF) On Line		Line	190200
-Maritime Control Areas				200000
-	Launch Area		Area	200100
+Maritime Control Areas				200000	Reserved for hierarchical purposes.
+	Launch Area		Area	200100	Reserved for hierarchical purposes.
 		Ellipse/Circle	Area	200101
-	Defended Area		Area	200200
+	Defended Area		Area	200200	Reserved for hierarchical purposes.
 		Ellipse/Circle	Area	200201
 		Rectangle	Area	200202
 	No Attack (NOTACK) Zone		Area	200300
@@ -180,7 +180,7 @@ Maritime Control Areas				200000
 	Active Maneuver Area		Area	200500
 	Cued Acquisition Doctrine		Area	200600
 	Radar Search Doctrine		Area	200700
-Maritime Control Points				210000
+Maritime Control Points				210000	Reserved for hierarchical purposes.
 	Plan Ship		Point	210100
 	Aim Point		Point	210200
 	Defended Asset		Point	210300
@@ -209,7 +209,7 @@ Maritime Control Points				210000
 	Optical Fix		Point	212600
 	Formation		Point	212700
 	Harbor		Point	212800
-	Harbor Entrance Point		Point	212900
+	Harbor Entrance Point		Point	212900	Reserved for hierarchical purposes.
 		A	Point	212901
 		Q	Point	212902
 		X	Point	212903
@@ -292,7 +292,7 @@ Maritime Control Points				210000
 	Sea Anomaly (Wake, Current, Knuckle)		Point	219000
 	Bottom Return/Non-MILCO, Wreck, Dangerous		Point	219100
 	Bottom Return/Non-MILCO, Wreck, Non Dangerous		Point	219200
-Maritime Control Lines				220000
+Maritime Control Lines				220000	Reserved for hierarchical purposes.
 	Bearing Line		Line	220100
 		Electronic	Line	220101
 		Electronic Warfare (EW)	Line	220102
@@ -304,36 +304,36 @@ Maritime Control Lines				220000
 		Radio Direction Finder (RDF)	Line	220108
 Deception				230000
 	Deceive/Decoy/Dummy/Feint			230200
-Fires Areas				240000
-	Airspace Coordination Area			240100
+Fires Areas				240000	Reserved for hierarchical purposes.
+	Airspace Coordination Area			240100	Reserved for hierarchical purposes.
 		Irregular	Area	240101
 		Rectangular	Area	240102
 		Circular	Area	240103
-	Free Fire Area			240200
+	Free Fire Area			240200	Reserved for hierarchical purposes.
 		Irregular	Area	240201
 		Rectangular	Area	240202
 		Circular	Area	240203
-	No Fire Area			240300
+	No Fire Area			240300	Reserved for hierarchical purposes.
 		Irregular	Area	240301
 		Rectangular	Area	240302
 		Circular	Area	240303
-	Restricted Fire Area			240400
+	Restricted Fire Area			240400	Reserved for hierarchical purposes.
 		Irregular	Area	240401
 		Rectangular	Area	240402
 		Circular	Area	240403
-	Position Area For Artillery (PAA)			240500
+	Position Area For Artillery (PAA)			240500	Reserved for hierarchical purposes.
 		Rectangular	Area	240501
 		Circular	Area	240502
 		Irregular	Area	240503
-	Point Targets			240600
+	Point Targets			240600	Reserved for hierarchical purposes.
 		Point or Single Target	Point	240601
 		Nuclear Target	Point	240602
 		Target-Recorded	Point	240603
-	Linear Targets			240700
+	Linear Targets			240700	Reserved for hierarchical purposes.
 		Linear Target	Line	240701
 		Linear Smoke Target	Line	240702
 		Final Protective Fire (FPF)	Line	240703
-	Area Targets			240800
+	Area Targets			240800	Reserved for hierarchical purposes.
 		Area Target	Area	240801
 		Rectangular Target	Area	240802
 		Circular Target	Area	240803
@@ -343,47 +343,47 @@ Fires Areas				240000
 		{Disused}		240807
 		Bomb Area	Area	240808
 	Fire Support Station		Point	240900
-	Fire Support Area			241000
+	Fire Support Area			241000	Reserved for hierarchical purposes.
 		Irregular	Area	241001
 		Rectangular	Area	241002
 		Circular	Area	241003
-	Artillery Target Intelligence Zone			241100
+	Artillery Target Intelligence Zone			241100	Reserved for hierarchical purposes.
 		Irregular		241101
 		Rectangular		241102
 		Circular		241103
-	Call for Fire Area			241200
+	Call for Fire Area			241200	Reserved for hierarchical purposes.
 		Irregular	Area	241201
 		Rectangular	Area	241202
 		Circular	Area	241203
-	Censor Zone			241300
+	Censor Zone			241300	Reserved for hierarchical purposes.
 		Irregular	Area	241301
 		Rectangular	Area	241302
 		Circular	Area	241303
-	Critical Friendly Zone			241400
+	Critical Friendly Zone			241400	Reserved for hierarchical purposes.
 		Irregular	Area	241401
 		Rectangular	Area	241402
 		Circular	Area	241403
-	Dead Space Area			241500
+	Dead Space Area			241500	Reserved for hierarchical purposes.
 		Irregular	Area	241501
 		Rectangular	Area	241502
 		Circular	Area	241503
 	{Disused}			241600
-	Target Build–up Area			241700
+	Target Build–up Area			241700	Reserved for hierarchical purposes.
 		Irregular	Area	241701
 		Rectangular	Area	241702
 		Circular	Area	241703
-	Target Value Area			241800
+	Target Value Area			241800	Reserved for hierarchical purposes.
 		Irregular	Area	241801
 		Rectangular	Area	241802
 		Circular	Area	241803
-	Zone of Responsibility			241900
+	Zone of Responsibility			241900	Reserved for hierarchical purposes.
 		Irregular	Area	241901
 		Rectangular	Area	241902
 		Circular	Area	241903
 	Terminally Guided Munition Footprint (TGMF)		Area	242000
 	Weapon/Sensor Range fan, Circular		Area	242100
 	Weapon/Sensor Range fan, Sector		Area	242200
-	Kill Box		Area	242300
+	Kill Box		Area	242300	Reserved for hierarchical purposes.
 		Irregular, Blue	Area	242301
 		Rectangular, Blue	Area	242302
 		Circular, Blue	Area	242303
@@ -392,42 +392,42 @@ Fires Areas				240000
 		Circular, Purple	Area	242306
 	Artillery Maneuver Area		Area	242400
 	Artillery Reserved Area		Area	242500
-Fires Points				250000
+Fires Points				250000	Reserved for hierarchical purposes.
 	Firing Point		Point	250100
 	Hide Point		Point	250200
 	Launch Point		Point	250300
 	Reload Point		Point	250400
 	Survey Control Point		Point	250500
 	Known Point		Point	250600
-Fire Lines				260000
+Fire Lines				260000	Reserved for hierarchical purposes.
 	Fire Support Coordination Line (FSCL)		Line	260100
 	Coordinated Fire Line (CFL)		Line	260200
 	No Fire Line		Line	260300
 	Battlefield Coordination Line		Line	260400
 	Restrictive Fire Line		Line	260500
 	Munition Flight Path		Line	260600
-Protection Areas				270000
+Protection Areas				270000	Reserved for hierarchical purposes.
 	Obstacle Belt		Area	270100
 	Obstacle Zone		Area	270200
 	Obstacle Free Zone		Area	270300
 	Obstacle Restricted Zone		Area	270400
-	Obstacle Effects		Area	270500
+	Obstacle Effects		Area	270500	Reserved for hierarchical purposes.
 		Block	Area	270501
 		Disrupt	Area	270502
 		Fix	Line	270503
 		Turn	Line	270504
-	Obstacle Bypass			270600
+	Obstacle Bypass			270600	Reserved for hierarchical purposes.
 		Easy	Line	270601
 		Difficult	Line	270602
 		Impossible	Line	270603
-	Minefield			270700
+	Minefield			270700	Reserved for hierarchical purposes.
 		Static Depiction	Area	270701
 		Dynamic Depiction	Area	270707
 	Mined Area			270800
 		Fenced	Area	270801
 	Unexploded Explosive Ordnance (UXO) Area			271000
 	Bridge or Gap			271100
-	Roadblocks, Craters and Blown Bridges			271200
+	Roadblocks, Craters and Blown Bridges			271200	Reserved for hierarchical purposes.
 		Planned	Line	271201
 		Explosives, State of Readiness 1 (Safe)	Line	271202
 		Explosives, State of Readiness 2 (armed but passable)	Line	271203
@@ -446,7 +446,7 @@ Protection Areas				270000
 	Minimum Safe Distance Zone		Area	272100
 		Multiple Strikes – STRIKWARN	Area	272101
 	Radiation Dose Rate Contour Lines		Area	272200
-Protection Points				280000
+Protection Points				280000	Reserved for hierarchical purposes.
 	Abatis		Point	280100
 	Antipersonnel Mine		Point	280200
 		Antipersonnel Mine with Directional Effects	Point	280201
@@ -478,23 +478,23 @@ Protection Points				280000
 		Main Equipment	Point	281807
 		Forward Troop	Point	281808
 		Wounded Personnel	Point	281809
-	Tetrahedrons, Dragons Teeth, and Other Similar Obstacles			281900
+	Tetrahedrons, Dragons Teeth, and Other Similar Obstacles			281900	Reserved for hierarchical purposes.
 		Fixed and Prefabricated	Point	281901
 		Movable	Point	281902
 		Movable and Prefabricated	Point	281903
-	Vertical Obstructions			282000
+	Vertical Obstructions			282000	Reserved for hierarchical purposes.
 		Tower, Low	Point	282001
 		Tower, High	Point	282002
-		Overhead Wire	Point	282003
-Protection Lines				290000
+		Overhead Wire	Line	282003
+Protection Lines				290000	Reserved for hierarchical purposes.
 	Obstacle Line			290100
 		Mineline	Line	290101
-	Antitank Obstacles			290200
+	Antitank Obstacles			290200	Reserved for hierarchical purposes.
 		Ditch Under Construction	Line	290201
 		Ditch Completed	Line	290202
 		Ditch Reinforced, with Antitank Mines	Line	290203
 		Antitank Wall	Line	290204
-	Wire Obstacles			290300
+	Wire Obstacles			290300	Reserved for hierarchical purposes.
 		Unspecified	Line	290301
 		Single Fence	Line	290302
 		Double Fence	Line	290303
@@ -511,9 +511,9 @@ Protection Lines				290000
 	Raft Site		Line	290800
 	Fortified Line		Line	290900
 	Fighting Position		Line	291000
-Intelligence Lines				300000
+Intelligence Lines				300000	Reserved for hierarchical purposes.
 	Intelligence Coordination Line		Line	300100
-Sustainment Areas				310000
+Sustainment Areas				310000	Reserved for hierarchical purposes.
 	Detainee Holding Area		Area	310100
 	Enemy Prisoner of War (EPW) Holding Area		Area	310200
 	Forward Arming and Refueling Point (FARP)		Area	310300
@@ -522,8 +522,8 @@ Sustainment Areas				310000
 	Brigade Support Area		Area	310600
 	Division Support Area		Area	310700
 	Corps Support Area		Area	310800
-Sustainment Points				320000
-	Ambulance Points			320100
+Sustainment Points				320000	Reserved for hierarchical purposes.
+	Ambulance Points			320100	Reserved for hierarchical purposes.
 		Ambulance Exchange Point	Point	320101
 		Ambulance Control Point	Point	320102
 		Ambulance Load Point	Point	320103
@@ -562,7 +562,7 @@ Sustainment Points				320000
 		US Class X	Point	321716
 	Medical Supply Point		Point	321800
 	Mortuary Affairs Collection Point		Point	321900
-Sustainment Lines				330000
+Sustainment Lines				330000	Reserved for hierarchical purposes.
 	Moving Convoy		Line	330100
 	Halted Convoy		Line	330200
 	Main Supply Route (MSR)			330300
@@ -576,7 +576,7 @@ Sustainment Lines				330000
 	Traffic Route			330500
 		One Way Traffic	Line	330501
 		Alternating Traffic	Line	330502
-Mission Tasks				340000
+Mission Tasks				340000	Reserved for hierarchical purposes.
 	Block		Area	340100
 	Breach		Area	340200
 	Bypass		Area	340300
@@ -598,7 +598,7 @@ Mission Tasks				340000
 	Relief in Place (RIP)		Area	341900
 	Retire/Retirement		Area	342000
 	Secure		Area	342100
-	Security			342200
+	Security			342200	Reserved for hierarchical purposes.
 		Cover	Area	342201
 		Guard	Area	342202
 		Screen	Area	342203

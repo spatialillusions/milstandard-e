@@ -19,7 +19,7 @@ Military			110000
 	Tethered Satellite		111700
 	Weather Satellite		111800
 	Space Launched Vehicle (SLV)		111900
-Civilian			120000
+Civilian			120000	Reserved for hierarchical purposes.
 	Orbiter Shuttle		120100
 	Capsule		120200
 	Satellite		120300
