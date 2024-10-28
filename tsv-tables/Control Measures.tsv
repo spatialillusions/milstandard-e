@@ -24,7 +24,7 @@ Command and Control Points				130000	Reserved for hierarchical purposes.
 	Decision Point		Point	130700
 	Distress Call		Point	130800
 	Entry Control Point		Point	130900
-	Fly-To-Point		Point	131000	Reserved for hierarchical purposes.
+	Fly-To-Point			131000	Reserved for hierarchical purposes.
 		Sonobuoy	Point	131001
 		Weapon	Point	131002
 		Normal	Point	131003
@@ -48,7 +48,7 @@ Maneuver Lines				140000	Reserved for hierarchical purposes.
 	Phase Line		Line	140300
 	Forward Edge of the Battle Area		Line	140400
 	Principle Direction of Fire		Line	140500
-	Direction of Attack		Line	140600
+	Direction of Attack			140600	Reserved for hierarchical purposes.
 		Friendly Aviation	Line	140601
 		Friendly Main Attack /Decisive	Line	140602
 		Friendly Supporting Attack	Line	140603
@@ -73,7 +73,7 @@ Maneuver Areas				150000	Reserved for hierarchical purposes.
 	Assembly Area		Area	150200
 	{Disused}		Area	150300
 	{Disused}		Area	150400
-	Action Area		Area	150500	Reserved for hierarchical purposes.
+	Action Area			150500	Reserved for hierarchical purposes.
 		Joint Tactical Action Area (JTAA)	Area	150501
 		Submarine Action Area (SAA)	Area	150502
 		Submarine-Generated Action Area (SGAA)	Area	150503
@@ -170,7 +170,7 @@ Airspace Control Lines				190000	Reserved for hierarchical purposes.
 Maritime Control Areas				200000	Reserved for hierarchical purposes.
 	Launch Area		Area	200100	Reserved for hierarchical purposes.
 		Ellipse/Circle	Area	200101
-	Defended Area		Area	200200	Reserved for hierarchical purposes.
+	Defended Area			200200	Reserved for hierarchical purposes.
 		Ellipse/Circle	Area	200201
 		Rectangle	Area	200202
 	No Attack (NOTACK) Zone		Area	200300
@@ -462,7 +462,7 @@ Protection Points				280000	Reserved for hierarchical purposes.
 	Fort		Point	281200
 	Chemical Event		Point	281300
 		Toxic Industrial Material	Point	281301
-	Biological Event			281400
+	Biological Event		Point	281400
 		Toxic Industrial Material	Point	281401
 	Nuclear Event		Point	281500
 	Nuclear Fallout Producing Event		Point	281600
