@@ -1,5 +1,5 @@
 First Modifier	Category	Code	Remarks
-Own Ship	Mission Area	01
+Own Ship	Mission Area	01	APP-06
 Antiair Warfare	Mission Area	02
 {Disused}		03
 {Disused}		04
@@ -9,7 +9,7 @@ Electronic Warfare	Mission Area	05
 Missile Defense	Mission Area	08
 Medical	Mission Area	09
 {Disused}		10
-Remote Multi-mission Vehicle (RMV)	Mission Area	11
+Remote Multi-mission Vehicle (RMV)	Mission Area	11	US only
 {Disused}		12
 {Disused}		13
 {Disused}		14
@@ -20,7 +20,7 @@ Drone–Equipped	Asset Capability	18
 {Disused}		19
 {Disused}		20
 Ballistic Missile Defense, Long-Range Surveillance and Track (LRS&T)	Mission Area	21
-Sea-Base X-Band	Mission Area	22
+Sea-Base X-Band	Mission Area	22	Used with SBX Radar
 {Disused}		23
 {Disused}		24
 {Disused}		25

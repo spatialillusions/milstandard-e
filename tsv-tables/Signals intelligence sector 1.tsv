@@ -37,7 +37,7 @@ Missile Acquisition	Radar	35
 Missile Control	Jammer	36
 Missile Downlink	Air Radar	37
 Meteorological	Radar	38
-Multi-Function	Jammer	39
+Multi-Function	Jammer	39	Two or more of EW, TA, TT, MG, TI
 Missile Guidance	Radar	40
 Missile Homing	Radar	41
 Missile Tracking	Jammer	42

@@ -1,13 +1,13 @@
 Second Modifier	Category	Code	Remarks
-Optical	Sensor	01
-Infrared	Sensor	02
-Radar	Sensor	03
-Signals Intelligence (SIGINT)	Sensor	04
+Optical	Sensor	01	Only used with satellite icons.
+Infrared	Sensor	02	Only used with satellite icons.
+Radar	Sensor	03	Only used with satellite icons.
+Signals Intelligence (SIGINT)	Sensor	04	Only used with satellite icons.
 {Disused}		05
-{Disused}		06
-High Power Microwave (ASAT)	Capability	07
-Laser (ASAT)	Capability	08
+Electromagnetic Warfare (ASAT)		06	Only used with Anti-Satellite Weapon Main Icon.
+High Power Microwave (ASAT)	Capability	07	Only used with Anti-Satellite Weapon Main Icon.
+Laser (ASAT)	Capability	08	Only used with Anti-Satellite Weapon Main Icon.
 Maintenance	Capability	09
-Mine (ASAT)	Capability	10
+Mine (ASAT)	Capability	10	Only used with Anti-Satellite Weapon Main Icon.
 Refuel	Capability	11
 Tug	Capability	12

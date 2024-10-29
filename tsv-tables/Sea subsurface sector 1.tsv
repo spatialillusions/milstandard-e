@@ -1,6 +1,6 @@
 First Modifier	Category	Code	Remarks
 {Disused}		01
-Auxiliary	Mission Area	02
+Auxiliary	Mission Area	02	Used with SUBMARINE entity type only.
 {Disused}		03
 {Disused}		04
 {Disused}		05
@@ -11,13 +11,13 @@ Auxiliary	Mission Area	02
 {Disused}		10
 {Disused}		11
 {Disused}		12
-Possible Submarine Low 1	Submarine Confidence	13
-Possible Submarine Low 2	Submarine Confidence	14
-Possible Submarine High 3	Submarine Confidence	15
-Possible Submarine High 4	Submarine Confidence	16
-Probable Submarine	Submarine Confidence	17
-Certain Submarine	Submarine Confidence	18
-Anti-torpedo Torpedo	Weapons Capability	19
+Possible Submarine Low 1	Submarine Confidence	13	Used with SUBMARINE entity type only.
+Possible Submarine Low 2	Submarine Confidence	14	Used with SUBMARINE entity type only.
+Possible Submarine High 3	Submarine Confidence	15	Used with SUBMARINE entity type only.
+Possible Submarine High 4	Submarine Confidence	16	Used with SUBMARINE entity type only.
+Probable Submarine	Submarine Confidence	17	Used with SUBMARINE entity type only.
+Certain Submarine	Submarine Confidence	18	Used with SUBMARINE entity type only.
+Anti-torpedo Torpedo	Weapons Capability	19	Used with TORPEDO entity type only.
 {Disused}	Crime	20
 {Disused}	Crime	21
 {Disused}		22

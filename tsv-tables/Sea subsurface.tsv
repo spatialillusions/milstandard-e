@@ -14,10 +14,10 @@ Civilian			120000
 	Diver		120300
 Weapon			130000
 	Torpedo		130100
-	Improvised Explosive Device (IED)		130200
+	Improvised Explosive Device (IED)		130200	Used with hostile standard identity only.
 	Decoy		130300
-Echo Tracker Classifier (ETC) / Possible Contact (POSCON)			140000
-Fused Track			150000
+Echo Tracker Classifier (ETC) / Possible Contact (POSCON)			140000	All ETC/POSCON tracks shall have a pending standard identity frame.
+Fused Track			150000	All fused tracks shall have a pending standard identity frame.
 Manual Track			160000
 Seabed Installation Man-Made, Military			200000
 Seabed Installation Man-Made, Non-Military			210000

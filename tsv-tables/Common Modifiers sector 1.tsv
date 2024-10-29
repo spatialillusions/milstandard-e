@@ -1,7 +1,7 @@
 First Modifier	Category	Code	Remarks
 Unmanned Aircraft (UA)/ Unmanned Aerial Vehicle (UAV)/ Unmanned Aircraft System (UAS)/ Remote Piloted Vehicle (RPV)	Mobility	100
 Robotic	Mobility	101
-Fixed Wing	Mobility	102
+Fixed Wing	Mobility	102	Not used by USAF
 Rotary Wing	Mobility	103
 Tilt-Rotor	Mobility	104
 VSTOL/VTOL or Helicopter Equipped	Mobility	105
@@ -53,7 +53,7 @@ Rape 	Crime	150
 Antisubmarine Warfare	Mission Area	151
 Escort	Mission Area	152
 Mine Countermeasures	Mission Area	153
-Mine Warfare	Mission Area	154
+Mine Warfare	Mission Area	154	APP-06 uses ‘MW’
 Surface Warfare	Mission area	155
 Command	Support Level	156
 Company	Support Level	157

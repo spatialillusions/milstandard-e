@@ -2,9 +2,9 @@ Second Modifier	Category	Code	Remarks
 {Disused}		01
 {Disused}		02
 {Disused}		03
-Boom–Only	Re-Fueling Capability	04
-Drogue–Only	Re-Fueling Capability	05
-Boom and Drogue	Re-Fueling Capability	06
+Boom–Only	Re-Fueling Capability	04	Used with tanker only.
+Drogue–Only	Re-Fueling Capability	05	Used with tanker only.
+Boom and Drogue	Re-Fueling Capability	06	Used with tanker only.
 {Disused}		07
 {Disused}		08
 {Disused}		09

@@ -90,5 +90,5 @@ Civilian			140000
 	Jet Ski		140600
 	Unmanned Surface Water Vehicle (USV)		140700
 Own Ship			150000
-Fused Track			160000
+Fused Track			160000	All fused tracks shall have a pending standard identity frame.
 Manual Track			170000

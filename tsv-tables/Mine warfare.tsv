@@ -7,11 +7,11 @@ Sea Mine, General			110000
 	Sea Mine, Other Position		110500
 	Kingfisher		110600
 	Small Object, Mine–Like		110700
-	Exercise Mine, General		110800
-		Exercise Mine, Bottom	110801
-		Exercise Mine, Moored	110802
-		Exercise Mine, Floating	110803
-		Exercise Mine, Rising	110804
+	Exercise Mine, General		110800	Used with exercise frame only.
+		Exercise Mine, Bottom	110801	Used with exercise frame only.
+		Exercise Mine, Moored	110802	Used with exercise frame only.
+		Exercise Mine, Floating	110803	Used with exercise frame only.
+		Exercise Mine, Rising	110804	Used with exercise frame only.
 	Neutralized Mine, General		110900
 		Neutralized Mine, Bottom	110901
 		Neutralized Mine, Moored	110902

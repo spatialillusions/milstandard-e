@@ -1,17 +1,17 @@
 Second Modifier	Category	Code	Remarks
-Air Independent Propulsion	Ship Propulsion	01
-Diesel Electric, General	Ship Propulsion	02
-Diesel – Type 1	Ship Propulsion	03
-Diesel – Type 2	Ship Propulsion	04
-Diesel – Type 3	Ship Propulsion	05
-Nuclear Powered, General	Ship Propulsion	06
-Nuclear – Type 1	Ship Propulsion	07
-Nuclear – Type 2	Ship Propulsion	08
-Nuclear – Type 3	Ship Propulsion	09
-Nuclear – Type 4	Ship Propulsion	10
-Nuclear – Type 5	Ship Propulsion	11
-Nuclear – Type 6	Ship Propulsion	12
-Nuclear – Type 7	Ship Propulsion	13
+Air Independent Propulsion	Ship Propulsion	01	Used with Submarine entity type only.
+Diesel Electric, General	Ship Propulsion	02	Used with Submarine entity type only.
+Diesel – Type 1	Ship Propulsion	03	Used with Submarine entity type only.
+Diesel – Type 2	Ship Propulsion	04	Used with Submarine entity type only.
+Diesel – Type 3	Ship Propulsion	05	Used with Submarine entity type only.
+Nuclear Powered, General	Ship Propulsion	06	Used with Submarine entity type only.
+Nuclear – Type 1	Ship Propulsion	07	Used with Submarine entity type only.
+Nuclear – Type 2	Ship Propulsion	08	Used with Submarine entity type only.
+Nuclear – Type 3	Ship Propulsion	09	Used with Submarine entity type only.
+Nuclear – Type 4	Ship Propulsion	10	Used with Submarine entity type only.
+Nuclear – Type 5	Ship Propulsion	11	Used with Submarine entity type only.
+Nuclear – Type 6	Ship Propulsion	12	Used with Submarine entity type only.
+Nuclear – Type 7	Ship Propulsion	13	Used with Submarine entity type only.
 {Disused}		14
 {Disused}		15
 {Disused}		16
