@@ -283,7 +283,7 @@ Maritime Control Points				210000	Reserved for hierarchical purposes.
 	Ditched Aircraft/Downed Aircraft		Point	218100
 	Person in Water/Bailout		Point	218200
 	Iceberg		Point	218300
-	Navigational		Point	218400
+	Navigational		Line	218400
 	Oil Rig		Point	218500
 	Sea Mine–Like		Point	218600
 	Bottom Return/Non-Mine, Mine-Like Bottom Object (NOMBO)		Point	218700
@@ -447,7 +447,7 @@ Protection Areas				270000	Reserved for hierarchical purposes.
 		Multiple Strikes – STRIKWARN	Area	272101
 	Radiation Dose Rate Contour Lines		Area	272200
 Protection Points				280000	Reserved for hierarchical purposes.
-	Abatis		Point	280100
+	Abatis		Line	280100
 	Antipersonnel Mine		Point	280200
 		Antipersonnel Mine with Directional Effects	Point	280201
 	Antitank Mine		Point	280300
