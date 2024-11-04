@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Command and Control			110000
+Command and Control			110000	Reserved for Amplifier field Special Headquarters.
 	Broadcast Transmitter Antennae		110100
 	Civil Affairs 		110200
 	Civil–Military Cooperation 		110300

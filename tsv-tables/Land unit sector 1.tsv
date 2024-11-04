@@ -28,7 +28,7 @@ Force	Capability	26
 Forward	Capability	27
 Ground Station Module	Capability	28
 Landing Support	Capability	29
-Company 		30
+{Disused}		30
 {Disused}		31
 Meteorological	Capability	32
 {Disused}		33
@@ -36,7 +36,7 @@ Missile	Capability	34
 Mobile Advisor and Support	Capability	35
 Mobile Subscriber Equipment	Capability	36
 Mobility Support	Capability	37
-Battalion		38
+{Disused}		38
 Multinational	Capability	39
 Multinational Specialized Unit	Capability	40
 Multiple Rocket Launcher	Capability	41
