@@ -1,6 +1,6 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
 Military			110000	Reserved for hierarchical purposes.
-Military Combatant			120000	Reserved for hierarchical purposes.
+Military Combatant			120000
 	Carrier		120100
 	Surface Combatant, Line		120200
 		Battleship	120201

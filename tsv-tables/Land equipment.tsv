@@ -1,5 +1,5 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
-Weapon/Weapon System			110000	Reserved for hierarchical purposes.
+Weapon/Weapon System			110000
 	Rifle		110100
 		Single Shot Rifle	110101
 		Semiautomatic Rifle	110102
