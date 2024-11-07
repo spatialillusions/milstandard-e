@@ -1,6 +1,6 @@
 Entity	Entity Type	Entity Subtype	Code	Remarks
 Military			110000	Reserved for hierarchical purposes.
-Military Combatant			120000
+Military Combatant			120000	Reserved for hierarchical purposes.
 	Carrier		120100
 	Surface Combatant, Line		120200
 		Battleship	120201
@@ -40,7 +40,7 @@ Military Combatant			120000
 		Navy Task Unit	121004
 		Convoy	121005
 	Sea-Based X-Band Radar		121100
-Military Non Combatant			130000	Reserved for hierarchical purposes.
+Military Non Combatant			130000	
 	Auxiliary Ship		130100
 		Ammunition Ship	130101
 		Naval Stores Ship	130102
