@@ -585,7 +585,7 @@ Mission Tasks				340000	Reserved for hierarchical purposes.
 	Counterattack		Area	340600
 	Counterattack by Fire		Area	340700
 	Delay		Area	340800
-	Destroy		Area	340900
+	Destroy		Point	340900
 	Disrupt		Area	341000
 	Fix		Area	341100
 	Follow and Assume		Area	341200
