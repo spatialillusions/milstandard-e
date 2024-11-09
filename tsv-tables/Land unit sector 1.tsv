@@ -17,7 +17,7 @@ Cross Cultural Communication	Capability	13
 Detention	Capability	16
 Direct Communications	Capability	17
 Diving	Capability	18
-Division	Capability	19
+Division	Support Level	19
 Dog	Capability	20
 Drilling	Capability	21
 Electro–Optical	Capability	22
@@ -91,10 +91,10 @@ Airfield, Aerial Port of Debarkation, or Aerial Port of Embarkation	Capability	8
 Pipeline	Capability	90
 Postal	Capability	91
 {Disused}		92
-Independent Command		93
-Theater	Capability	94
-Army or Theater Army	Capability	95
-Corps	Capability	96
+Independent Command	Support Level	93
+Theater	Support Level	94
+Army or Theater Army	Support Level	95
+Corps	Support Level	96
 {Disused}		97
-Headquarters or Headquarters Staff Element	Capability	98
+Headquarters or Headquarters Staff Element		98
 Multi-Domain Operations	Capability	99
