@@ -54,7 +54,7 @@ Radio Frequency Identification (RFID) Interrogator / Sensor	Capability	51
 {Disused}		53
 {Disused}		54
 Sensor	Capability	55
-Weapon		56
+Weapon	Capability	56
 Signals Intelligence	Capability	57
 {Disused}		58
 Single Rocket Launcher	Capability	59
@@ -79,9 +79,9 @@ Support	Capability	77
 {Disused}		78
 Route, Reconnaissance, and Clearance	Capability	79
 {Disused}		80
-NATO Medical Role 2 Basic		81
-NATO Medical Role 2 Enhanced 		82
-NATO Medical Role Forward		83
+NATO Medical Role 2 Basic	Capability	81
+NATO Medical Role 2 Enhanced 	Capability	82
+NATO Medical Role Forward	Capability	83
 Assault	Capability	84
 {Disused}		85
 Criminal Investigation Division	Capability	86
