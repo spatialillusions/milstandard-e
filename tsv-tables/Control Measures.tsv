@@ -592,7 +592,7 @@ Mission Tasks				340000	Reserved for hierarchical purposes.
 	Follow and Support		Area	341300
 	Interdict		Area	341400
 	Isolate		Area	341500
-	Neutralize		Area	341600
+	Neutralize		Point	341600
 	Occupy		Area	341700
 	Penetrate		Area	341800
 	Relief in Place (RIP)		Area	341900
