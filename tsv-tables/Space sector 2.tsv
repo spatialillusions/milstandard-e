@@ -7,7 +7,7 @@ Signals Intelligence (SIGINT)	Sensor	04	Only used with satellite icons.
 Electromagnetic Warfare (ASAT)		06	Only used with Anti-Satellite Weapon Main Icon.
 High Power Microwave (ASAT)	Capability	07	Only used with Anti-Satellite Weapon Main Icon.
 Laser (ASAT)	Capability	08	Only used with Anti-Satellite Weapon Main Icon.
-Maintenance	Capability	09
-Mine (ASAT)	Capability	10	Only used with Anti-Satellite Weapon Main Icon.
+Mine (ASAT)	Capability	09	Only used with Anti-Satellite Weapon Main Icon.
+Maintenance	Capability	10
 Refuel	Capability	11
 Tug	Capability	12
